@@ -26,6 +26,19 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
+	<div class="container">
+	  <div class="row">
+	    <div class="col-md-4">
+	      One of three columns
+	    </div>
+	    <div class="col-md-4">
+	      One of three columns
+	    </div>
+	    <div class="col-md-4">
+	      One of three columns
+	    </div>
+	  </div>
+	</div>
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'portfolio' ); ?></a>
 
 	<header id="masthead" class="site-header">
