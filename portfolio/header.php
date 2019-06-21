@@ -18,6 +18,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<script src="<?php echo get_template_directory_uri(); ?>/js/custom.js" charset="utf-8"></script>
 	<?php wp_head(); ?>
+	
 </head>
 
 <body <?php body_class(); ?>>
