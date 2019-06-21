@@ -17,7 +17,19 @@ get_header();
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
-
+			<div class="container">
+			  <div class="row">
+			    <div class="col-md-4">
+			      One of three columns
+			    </div>
+			    <div class="col-md-4">
+			      One of three columns
+			    </div>
+			    <div class="col-md-4">
+			      One of three columns
+			    </div>
+			  </div>
+			</div>
 		<?php
 		if ( have_posts() ) :
 
