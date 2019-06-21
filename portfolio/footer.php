@@ -31,6 +31,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<h1>hallo</h1>
 </body>
 </html>
